@@ -1,8 +1,8 @@
-# Hola, soy Jose Luis Miguel 🤘
+# Hi, I'm Jose Luis Miguel 🤘
 
-Estudiante de Computación en la Universidad Autónoma Metropolitana, Unidad Iztapalapa. Apasionado por la robótica y la programación, con interés en enfrentar nuevos retos y contribuir al desarrollo de soluciones tecnológicas.
+Computer Science student at the Autonomous Metropolitan University, Iztapalapa Campus. Passionate about robotics and programming, with an interest in taking on new challenges and contributing to the development of technological solutions.
 
-# lenguajes de programacion 
+# programming languages
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,matlab)
 
