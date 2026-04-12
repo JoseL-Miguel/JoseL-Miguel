@@ -4,4 +4,4 @@ Estudiante de Computación en la Universidad Autónoma Metropolitana, Unidad Izt
 
 # lenguajes de programacion 
 
-https://skillicons.dev/icons?i=python,java,cpp,javaScript 
+![My Skills](https://skillicons.dev/icons?i=python,java,cpp,git,linux,ros)
