@@ -9,4 +9,4 @@ Computer Science student at the Autonomous Metropolitan University, Iztapalapa C
 
 ## ⚙️ Frameworks & Tools
 
-![Tools](https://skillicons.dev/icons?i=docker,git,github,html,css,react,mysql,vscode,arduino,opencv)
+![Tools](https://skillicons.dev/icons?i=docker,git,github,html,css,react,mysql,vscode,arduino,opencv,ros)
